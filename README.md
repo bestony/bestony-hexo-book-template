@@ -6,6 +6,7 @@
 2. 修改 `_themes/book/_config.yml`
 3. 修改 `source/_posts/home.md` -> 这是首页
 4. 修改 `source/_posts/menu.md` -> 这是侧边栏
+5. 设置 secret: `GITHUB_PAT` 为 personal access token 用于自动化部署
 
 ## LICENSE
 
